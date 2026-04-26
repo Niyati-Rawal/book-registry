@@ -1,0 +1,657 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "1234"
+    },
+    {
+      "id": "ac22",
+      "username": "niyati",
+      "password": "123"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "isbn": "978-0743273565",
+      "firstRelease": "1925-04-10",
+      "latestRelease": "2021-01-05"
+    },
+    {
+      "id": "2",
+      "title": "1984",
+      "author": "George Orwell",
+      "isbn": "978-0451524935",
+      "firstRelease": "1949-06-08",
+      "latestRelease": "2017-05-30"
+    },
+    {
+      "id": "3",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "isbn": "978-0061120084",
+      "firstRelease": "1960-07-11",
+      "latestRelease": "2015-10-20"
+    },
+    {
+      "id": "4",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "isbn": "978-0316769488",
+      "firstRelease": "1951-07-16",
+      "latestRelease": "2019-12-01"
+    },
+    {
+      "id": "5",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "isbn": "978-0547928227",
+      "firstRelease": "1937-09-21",
+      "latestRelease": "2022-09-15"
+    },
+    {
+      "id": "6",
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "isbn": "978-1451673319",
+      "firstRelease": "1953-10-19",
+      "latestRelease": "2020-05-10"
+    },
+    {
+      "id": "7",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "isbn": "978-0141439518",
+      "firstRelease": "1813-01-28",
+      "latestRelease": "2023-01-01"
+    },
+    {
+      "id": "8",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "isbn": "978-0060850524",
+      "firstRelease": "1932-05-15",
+      "latestRelease": "2018-11-22"
+    },
+    {
+      "id": "9",
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "isbn": "978-0143039433",
+      "firstRelease": "1939-04-14",
+      "latestRelease": "2021-03-14"
+    },
+    {
+      "id": "10",
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "isbn": "978-0375842207",
+      "firstRelease": "2005-03-14",
+      "latestRelease": "2022-11-05"
+    },
+    {
+      "id": "11",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "isbn": "978-0062315007",
+      "firstRelease": "1988-01-01",
+      "latestRelease": "2023-04-10"
+    },
+    {
+      "id": "12",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "isbn": "978-0307474278",
+      "firstRelease": "2003-03-18",
+      "latestRelease": "2019-06-12"
+    },
+    {
+      "id": "13",
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "isbn": "978-1594631931",
+      "firstRelease": "2003-05-29",
+      "latestRelease": "2021-02-18"
+    },
+    {
+      "id": "14",
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "isbn": "978-0156027328",
+      "firstRelease": "2001-09-11",
+      "latestRelease": "2020-08-30"
+    },
+    {
+      "id": "15",
+      "title": "Memoirs of a Geisha",
+      "author": "Arthur Golden",
+      "isbn": "978-0679781585",
+      "firstRelease": "1997-09-27",
+      "latestRelease": "2018-05-14"
+    },
+    {
+      "id": "16",
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "isbn": "978-0385333849",
+      "firstRelease": "1969-03-31",
+      "latestRelease": "2022-01-11"
+    },
+    {
+      "id": "17",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "isbn": "978-0307387899",
+      "firstRelease": "2006-09-26",
+      "latestRelease": "2023-02-20"
+    },
+    {
+      "id": "18",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "isbn": "978-0062316097",
+      "firstRelease": "2011-01-01",
+      "latestRelease": "2024-01-05"
+    },
+    {
+      "id": "19",
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "isbn": "978-0553103540",
+      "firstRelease": "1996-08-01",
+      "latestRelease": "2021-09-10"
+    },
+    {
+      "id": "20",
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "isbn": "978-0224023405",
+      "firstRelease": "1985-01-01",
+      "latestRelease": "2022-03-15"
+    },
+    {
+      "id": "21",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "isbn": "978-0441172719",
+      "firstRelease": "1965-08-01",
+      "latestRelease": "2024-01-20"
+    },
+    {
+      "id": "22",
+      "title": "The Shining",
+      "author": "Stephen King",
+      "isbn": "978-0385121675",
+      "firstRelease": "1977-01-28",
+      "latestRelease": "2019-10-01"
+    },
+    {
+      "id": "23",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "isbn": "978-0590353403",
+      "firstRelease": "1997-06-26",
+      "latestRelease": "2023-11-12"
+    },
+    {
+      "id": "24",
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "isbn": "978-0439023481",
+      "firstRelease": "2008-09-14",
+      "latestRelease": "2021-05-04"
+    },
+    {
+      "id": "25",
+      "title": "Twilight",
+      "author": "Stephenie Meyer",
+      "isbn": "978-0316160179",
+      "firstRelease": "2005-10-05",
+      "latestRelease": "2020-02-14"
+    },
+    {
+      "id": "26",
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "isbn": "978-0307588364",
+      "firstRelease": "2012-06-05",
+      "latestRelease": "2018-09-10"
+    },
+    {
+      "id": "27",
+      "title": "The Help",
+      "author": "Kathryn Stockett",
+      "isbn": "978-0399155345",
+      "firstRelease": "2009-02-10",
+      "latestRelease": "2022-06-01"
+    },
+    {
+      "id": "28",
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "isbn": "978-0307269751",
+      "firstRelease": "2005-08-01",
+      "latestRelease": "2019-04-18"
+    },
+    {
+      "id": "29",
+      "title": "The Goldfinch",
+      "author": "Donna Tartt",
+      "isbn": "978-0316055437",
+      "firstRelease": "2013-10-22",
+      "latestRelease": "2020-11-30"
+    },
+    {
+      "id": "30",
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "isbn": "978-0316556347",
+      "firstRelease": "2018-04-10",
+      "latestRelease": "2023-08-15"
+    },
+    {
+      "id": "31",
+      "title": "Normal People",
+      "author": "Sally Rooney",
+      "isbn": "978-1984822178",
+      "firstRelease": "2018-08-28",
+      "latestRelease": "2021-07-20"
+    },
+    {
+      "id": "32",
+      "title": "Educated",
+      "author": "Tara Westover",
+      "isbn": "978-0399590504",
+      "firstRelease": "2018-02-20",
+      "latestRelease": "2023-12-05"
+    },
+    {
+      "id": "33",
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "isbn": "978-1524763138",
+      "firstRelease": "2018-11-13",
+      "latestRelease": "2022-02-14"
+    },
+    {
+      "id": "34",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "isbn": "978-0735211292",
+      "firstRelease": "2018-10-16",
+      "latestRelease": "2024-03-01"
+    },
+    {
+      "id": "35",
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "isbn": "978-0593135204",
+      "firstRelease": "2021-05-04",
+      "latestRelease": "2023-10-10"
+    },
+    {
+      "id": "36",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "isbn": "978-0525559474",
+      "firstRelease": "2020-08-13",
+      "latestRelease": "2023-01-12"
+    },
+    {
+      "id": "37",
+      "title": "Klara and the Sun",
+      "author": "Kazuo Ishiguro",
+      "isbn": "978-0593318171",
+      "firstRelease": "2021-03-02",
+      "latestRelease": "2022-09-20"
+    },
+    {
+      "id": "38",
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "isbn": "978-1501161933",
+      "firstRelease": "2017-06-13",
+      "latestRelease": "2023-05-05"
+    },
+    {
+      "id": "39",
+      "title": "Song of Achilles",
+      "author": "Madeline Miller",
+      "isbn": "978-0062060624",
+      "firstRelease": "2011-09-20",
+      "latestRelease": "2022-04-18"
+    },
+    {
+      "id": "40",
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "isbn": "978-1538724545",
+      "firstRelease": "2018-12-07",
+      "latestRelease": "2024-01-10"
+    },
+    {
+      "id": "41",
+      "title": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "isbn": "978-0735219090",
+      "firstRelease": "2018-08-14",
+      "latestRelease": "2022-10-30"
+    },
+    {
+      "id": "42",
+      "title": "Little Fires Everywhere",
+      "author": "Celeste Ng",
+      "isbn": "978-0735224292",
+      "firstRelease": "2017-09-12",
+      "latestRelease": "2021-11-15"
+    },
+    {
+      "id": "43",
+      "title": "Anxious People",
+      "author": "Fredrik Backman",
+      "isbn": "978-1501160837",
+      "firstRelease": "2019-04-25",
+      "latestRelease": "2023-03-08"
+    },
+    {
+      "id": "44",
+      "title": "Red, White & Royal Blue",
+      "author": "Casey McQuiston",
+      "isbn": "978-1250316776",
+      "firstRelease": "2019-05-14",
+      "latestRelease": "2023-07-25"
+    },
+    {
+      "id": "45",
+      "title": "It Ends with Us",
+      "author": "Colleen Hoover",
+      "isbn": "978-1501110368",
+      "firstRelease": "2016-08-02",
+      "latestRelease": "2024-02-15"
+    },
+    {
+      "id": "46",
+      "title": "Daisy Jones & The Six",
+      "author": "Taylor Jenkins Reid",
+      "isbn": "978-1524798628",
+      "firstRelease": "2019-03-05",
+      "latestRelease": "2023-04-12"
+    },
+    {
+      "id": "47",
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "isbn": "978-1250301697",
+      "firstRelease": "2019-02-05",
+      "latestRelease": "2022-08-30"
+    },
+    {
+      "id": "48",
+      "title": "Eleanor Oliphant Is Completely Fine",
+      "author": "Gail Honeyman",
+      "isbn": "978-0143198307",
+      "firstRelease": "2017-05-09",
+      "latestRelease": "2021-12-05"
+    },
+    {
+      "id": "49",
+      "title": "Great Circle",
+      "author": "Maggie Shipstead",
+      "isbn": "978-0525656975",
+      "firstRelease": "2021-05-04",
+      "latestRelease": "2023-01-14"
+    },
+    {
+      "id": "50",
+      "title": "Lessons in Chemistry",
+      "author": "Bonnie Garmus",
+      "isbn": "978-0385547345",
+      "firstRelease": "2022-03-29",
+      "latestRelease": "2024-01-01"
+    },
+    {
+      "id": "51",
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "isbn": "978-0812981605",
+      "firstRelease": "2012-02-28",
+      "latestRelease": "2021-09-12"
+    },
+    {
+      "id": "52",
+      "title": "Guns, Germs, and Steel",
+      "author": "Jared Diamond",
+      "isbn": "978-0393038910",
+      "firstRelease": "1997-03-01",
+      "latestRelease": "2020-05-20"
+    },
+    {
+      "id": "53",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "isbn": "978-0374275631",
+      "firstRelease": "2011-10-25",
+      "latestRelease": "2022-11-30"
+    },
+    {
+      "id": "54",
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "isbn": "978-0553418026",
+      "firstRelease": "2011-09-27",
+      "latestRelease": "2021-04-15"
+    },
+    {
+      "id": "55",
+      "title": "Ready Player One",
+      "author": "Ernest Cline",
+      "isbn": "978-0307887436",
+      "firstRelease": "2011-08-16",
+      "latestRelease": "2018-03-30"
+    },
+    {
+      "id": "56",
+      "title": "The Underground Railroad",
+      "author": "Colson Whitehead",
+      "isbn": "978-0385542364",
+      "firstRelease": "2016-08-02",
+      "latestRelease": "2022-07-10"
+    },
+    {
+      "id": "57",
+      "title": "Homegoing",
+      "author": "Yaa Gyasi",
+      "isbn": "978-1101947134",
+      "firstRelease": "2016-06-07",
+      "latestRelease": "2021-10-18"
+    },
+    {
+      "id": "58",
+      "title": "Sing, Unburied, Sing",
+      "author": "Jesmyn Ward",
+      "isbn": "978-1501126062",
+      "firstRelease": "2017-09-05",
+      "latestRelease": "2020-01-25"
+    },
+    {
+      "id": "59",
+      "title": "The Overstory",
+      "author": "Richard Powers",
+      "isbn": "978-0393635522",
+      "firstRelease": "2018-04-03",
+      "latestRelease": "2023-06-15"
+    },
+    {
+      "id": "60",
+      "title": "On Earth We're Briefly Gorgeous",
+      "author": "Ocean Vuong",
+      "isbn": "978-0525562023",
+      "firstRelease": "2019-06-04",
+      "latestRelease": "2022-03-01"
+    },
+    {
+      "id": "61",
+      "title": "The Glass Hotel",
+      "author": "Emily St. John Mandel",
+      "isbn": "978-0525521143",
+      "firstRelease": "2020-03-24",
+      "latestRelease": "2023-09-10"
+    },
+    {
+      "id": "62",
+      "title": "Station Eleven",
+      "author": "Emily St. John Mandel",
+      "isbn": "978-0385353304",
+      "firstRelease": "2014-09-09",
+      "latestRelease": "2022-12-01"
+    },
+    {
+      "id": "63",
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "isbn": "978-0307744432",
+      "firstRelease": "2011-09-13",
+      "latestRelease": "2021-10-20"
+    },
+    {
+      "id": "64",
+      "title": "Life After Life",
+      "author": "Kate Atkinson",
+      "isbn": "978-0316176484",
+      "firstRelease": "2013-03-14",
+      "latestRelease": "2019-05-12"
+    },
+    {
+      "id": "65",
+      "title": "Big Little Lies",
+      "author": "Liane Moriarty",
+      "isbn": "978-0399167065",
+      "firstRelease": "2014-07-29",
+      "latestRelease": "2021-01-30"
+    },
+    {
+      "id": "66",
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "isbn": "978-1400052172",
+      "firstRelease": "2010-02-02",
+      "latestRelease": "2023-04-05"
+    },
+    {
+      "id": "67",
+      "title": "The Devil in the White City",
+      "author": "Erik Larson",
+      "isbn": "978-0609608449",
+      "firstRelease": "2003-02-11",
+      "latestRelease": "2022-08-14"
+    },
+    {
+      "id": "68",
+      "title": "Quiet",
+      "author": "Susan Cain",
+      "isbn": "978-0307352149",
+      "firstRelease": "2012-01-24",
+      "latestRelease": "2021-03-20"
+    },
+    {
+      "id": "69",
+      "title": "Born a Crime",
+      "author": "Trevor Noah",
+      "isbn": "978-0399588174",
+      "firstRelease": "2016-11-15",
+      "latestRelease": "2023-06-01"
+    },
+    {
+      "id": "70",
+      "title": "A Promised Land",
+      "author": "Barack Obama",
+      "isbn": "978-1524763169",
+      "firstRelease": "2020-11-17",
+      "latestRelease": "2022-11-20"
+    },
+    {
+      "id": "71",
+      "title": "Into the Wild",
+      "author": "Jon Krakauer",
+      "isbn": "978-0385486804",
+      "firstRelease": "1996-01-20",
+      "latestRelease": "2020-10-15"
+    },
+    {
+      "id": "72",
+      "title": "The Road to Character",
+      "author": "David Brooks",
+      "isbn": "978-0812993257",
+      "firstRelease": "2015-04-14",
+      "latestRelease": "2021-05-10"
+    },
+    {
+      "id": "73",
+      "title": "The Five People You Meet in Heaven",
+      "author": "Mitch Albom",
+      "isbn": "978-1401308582",
+      "firstRelease": "2003-09-23",
+      "latestRelease": "2019-12-18"
+    },
+    {
+      "id": "74",
+      "title": "The Shack",
+      "author": "William Paul Young",
+      "isbn": "978-0964729230",
+      "firstRelease": "2007-05-01",
+      "latestRelease": "2017-03-03"
+    },
+    {
+      "id": "75",
+      "title": "A Thousand Splendid Suns",
+      "author": "Khaled Hosseini",
+      "isbn": "978-1594489501",
+      "firstRelease": "2007-05-22",
+      "latestRelease": "2021-11-11"
+    },
+    {
+      "id": "76",
+      "title": "The Secret Life of Bees",
+      "author": "Sue Monk Kidd",
+      "isbn": "978-0670030552",
+      "firstRelease": "2001-11-08",
+      "latestRelease": "2020-07-22"
+    },
+    {
+      "id": "77",
+      "title": "Water for Elephants",
+      "author": "Sara Gruen",
+      "isbn": "978-1565124998",
+      "firstRelease": "2006-05-26",
+      "latestRelease": "2018-09-15"
+    },
+    {
+      "id": "78",
+      "title": "The Lovely Bones",
+      "author": "Alice Sebold",
+      "isbn": "978-0316666343",
+      "firstRelease": "2002-06-04",
+      "latestRelease": "2021-04-30"
+    },
+    {
+      "id": "79",
+      "title": "Eat, Pray, Love",
+      "author": "Elizabeth Gilbert",
+      "isbn": "978-0670034710",
+      "firstRelease": "2006-02-16",
+      "latestRelease": "2022-01-20"
+    },
+    {
+      "id": "80",
+      "title": "Wild",
+      "author": "Cheryl Strayed",
+      "isbn": "978-0307592736",
+      "firstRelease": "2012-03-20",
+      "latestRelease": "2023-03-05"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
